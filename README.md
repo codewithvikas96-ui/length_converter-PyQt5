@@ -25,3 +25,11 @@ A sleek and intuitive desktop application built with **PyQt5** that lets you con
 
 ## 🖼️ Preview
 <img width="1920" height="1140" alt="Length Converter Screenshot" src="https://github.com/user-attachments/assets/c4ab6ef3-b92d-47bc-aa4d-bd70f1345c12" />
+
+
+---
+
+## 🛠️ Installation
+1. Clone this repository:
+```bash
+```
