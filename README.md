@@ -32,4 +32,8 @@ A sleek and intuitive desktop application built with **PyQt5** that lets you con
 ## 🛠️ Installation
 1. Clone this repository:
 ```bash
+git clone https://github.com/codewithvikas96-ui/length_converter-PyQt5.git
 ```
+2. Navigate to the project folder:
+```bash
+cd lenght_converter
