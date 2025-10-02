@@ -36,4 +36,23 @@ git clone https://github.com/codewithvikas96-ui/length_converter-PyQt5.git
 ```
 2. Navigate to the project folder:
 ```bash
-cd lenght_converter
+cd length_converter
+```
+3. Install dependencies (if not already installed):
+```bash
+pip install PyQt5
+```
+4. Run the application
+```bash
+python length_converter.py
+```
+
+---
+
+## 🤝 Contributing
+Pull requests are welcome! If you have ideas for improvements or new features, feel free to fork the repo and submit a PR.
+
+---
+
+## 🙌 Acknowledgments
+Made with ❤️ using PyQt5.
